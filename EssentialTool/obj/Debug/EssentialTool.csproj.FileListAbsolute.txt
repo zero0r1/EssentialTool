@@ -75,3 +75,4 @@ D:\support\xiang\Documents\GitHub\EssentialTool\EssentialTool\bin\roslyn\System.
 D:\support\xiang\Documents\GitHub\EssentialTool\EssentialTool\bin\roslyn\System.Xml.XPath.XDocument.dll
 D:\support\xiang\Documents\GitHub\EssentialTool\EssentialTool\bin\Ninject.dll
 D:\support\xiang\Documents\GitHub\EssentialTool\EssentialTool\bin\Ninject.xml
+D:\support\xiang\Documents\GitHub\EssentialTool\EssentialTool\obj\Debug\EssentialTool.csprojResolveAssemblyReference.cache
